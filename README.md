@@ -1,6 +1,10 @@
 # Calculator
 JS training
 
+-----UPDATE------
+
+This version is no longer developed. Please check the Calculator-Object branch.
+
 Hello Reader
 
 This is my own project to create a working calculator with the use of my JS knowledge gained to this day.  
