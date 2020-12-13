@@ -1,5 +1,5 @@
 # Calculator
-JS training
+JS training - This version is obsolete - the code and project has been refactored.
 
 -----UPDATE------
 
